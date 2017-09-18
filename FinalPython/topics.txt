@@ -1,0 +1,13 @@
+xx:xx:xx:xx:xx:xx /test/topic
+a0:20:a6:05:ae:74 /room1/switch1
+a0:20:a6:05:ae:74 /room1/switch2
+a0:20:a6:05:ae:74 /room1/switch3
+a0:20:a6:05:ae:74 /room1/switch4
+a0:20:a6:05:ae:74 /room1/switch5
+a0:20:a6:05:ae:74 /room1/switch6
+a0:20:a6:05:ae:7a /room1/switch1
+a0:20:a6:05:ae:7a /room1/switch2
+a0:20:a6:05:ae:7a /room1/switch3
+a0:20:a6:05:ae:7a /room1/switch4
+a0:20:a6:05:ae:7a /room1/switch5
+a0:20:a6:05:ae:7a /room1/switch6

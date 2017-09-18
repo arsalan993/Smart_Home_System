@@ -1,0 +1,4 @@
+Islamabad, Pakistan
+switch1 enable
+switch2 enable
+switch3 disbale
